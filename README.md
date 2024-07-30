@@ -60,7 +60,6 @@ How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/loan-approval-prediction.git
 Navigate to the project directory:
 bash
 Copy code
